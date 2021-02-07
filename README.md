@@ -1,4 +1,4 @@
-You must install the LWJGL package first (https://sourceforge.net/projects/java-game-lib/files/Official%20Releases/LWJGL%202.9.3/). 
+You must install the LWJGL package first (https://sourceforge.net/projects/java-game-lib/files/Official%20Releases/LWJGL%202.9.3/)
 and import the native APIS based on your specific computer in order to run the program. 
 This program represents an application of the use of the Lightweight Java Game Library (LWJGL).
 LWJGL is an open source library that allows cross platform access to native APIs graphics, audio, 
