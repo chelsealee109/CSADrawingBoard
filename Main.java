@@ -3,12 +3,15 @@
  * CLick the left mouse button twice to draw a straight line
  * Click the right mouse button to start at a new location
  * Press space bar to clear the board
+ * Press "T" key to create a triangle
+ * Press "S" key to create a square
+ * Press "R" key to create a rectangle
  */
 
 /**
- * author: Chelsea Lee
- * date: 1/29/21
- * version 1.0
+ * authors: Chelsea Lee, Shriya Rudrashetty, Sai Balakumar
+ * date: 2/07/21
+ * version 3.0
  */
 
 import static org.lwjgl.opengl.GL11.*;
